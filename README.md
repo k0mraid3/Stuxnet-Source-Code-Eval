@@ -1,22 +1,5 @@
 <div align="center">
-<h3>MALWARE AHEAD! IF YOU  DO NOT  KNOW WHAT THAT IS - LEAVE</h3>
-
-I am happy that my [GitHub Repo on Stuxnet](https://github.com/loneicewolf/Stuxnet-Source) has been helpful in the [research paper ](https://github.com/loneicewolf/Stuxnet-Source/blob/main/Docs/handson-report-McDougall-Ugas-FINAL.pdf) by McDougall & Ugas.
-
-It's been a nice journey, even though I still needed to take breaks, it was fun so it was "sort of" like a break for me. It was, basically - what kept me going! I hope to contribute more to this field.
-
-Yours sincerely,
-
-
-*Will*
-
-<sub> This is now done! Which is why I am archiving this. </sub>
-
-</div>
-
----
-
-<sub>Please see the `THANKS_TO.md` file for people I consider helpful in building this repo!</sub>
+<h3>MALWARE!!!!! FOR EVAL BY SG!!!! FOR R&D ONLY - DO NOT USE IF YOU DONT KNOW WHAT IT IS!!!!!!!!!!!!!!!!!!!!!! - LEAVE NOW!!!!!!!!!!!!! </h3>
 
 ## Table of Contents
 
@@ -55,23 +38,6 @@ This repository is a collection of Stuxnet-related files I have gathered from va
 
 Finding actual samples of Stuxnet and related malware is relatively easy. However, finding de-obfuscated, analyzed outputs, memory dumps, etc., is difficult. This repository aims to fill that gap.
 
----
-
-## Malware Samples
-
-For the malware itself, please visit [**only_malware**](https://github.com/loneicewolf/Stuxnet-Source/tree/ONLY_MALWARE).
-
-- If you see `need PK compat. v5.1 (can do v4.6)`, you need to install `engrampa` on Linux. I use Qubes for malware and Engrampa to pack infected archives.
-
----
-
-## Related Malware
-
-- **Brutal Kangaroo**
-- **[Fanny.bmp - the Precursor/Derivative to Stuxnet](https://github.com/loneicewolf/fanny.bmp)**
-- **[nls_933w.dll file](https://github.com/loneicewolf/nls_933w_dll)**
-- **[Gauss](https://github.com/loneicewolf/Gauss-Src)**
-- **[FlamER](https://github.com/loneicewolf/flame-sourcecode)**
 
 ---
 
@@ -185,27 +151,14 @@ Fanny (known as fanny.bmp or the classical a, b, c, d, e, ..., __j__.lnk worm) i
 
 ## Acknowledgments
 
-<div align="center" style="color: #ff6341;">
-  I would like to personally thank <b>McDougall</b> and <b>Ugas</b> from FSU (<b>F</b>lorida <b>S</b>tate <b>U</b>niversity) for their invaluable research, as well as for including me and my contribution (this repo) in their paper. It has been an honor to collaborate and contribute to this field.
-  
-  I also want to extend my gratitude to the **reverse engineers** of the **tools** that have been essential for my analysis, including:
-  <br><br>
-  <a href="https://github.com/fyyre" style="color: #ff6341;"><b>Fyyre</b></a> for their repositories, <a href="https://github.com/Fyyre/DrvMon" style="color: #ff6341;"><b>DrvMon</b></a> and <a href="https://github.com/Fyyre/kerneldetective" style="color: #ff6341;"><b>kerneldetective</b></a>.
-  <br>
-  <a href="https://github.com/mandiant" style="color: #ff6341;"><b>Mandiant</b></a> for their tool <a href="https://github.com/mandiant/flare-floss" style="color: #ff6341;"><b>flare-floss</b></a>.
-  <br><br>
-  Your contributions have been instrumental in my research.
-  <br><br>
-  Yours sincerely,<br>
-  Will
-</div>
+-- OP (See forked from)
 
 
 
 ## Password for Encrypted Files
-If you still are sure you want to explore it, below is a clickable element that will display the password to the archive. When you do, no guarantees. Aka you are on your own.
+If you ABSOLUTELY POSITIVE sure you want to look into this MALWARE, below is a clickable element that will display the password to the archive. When you do, no guarantees. Aka you are on your own.
 <details>
-<summary>🔒I am sure, I am on my own</summary>
+<summary>🔒I understand that this is one of the most destructive pieces of malware to ever exist, and I still want to go look...</summary>
 
 - **INFECTEDIKNOWWHATIAMDOING**
 - **infected**
